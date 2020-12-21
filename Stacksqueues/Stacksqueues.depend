@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1608538207 source:f:\mahe\ads\stacks and queues\stacksqueues\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<stdint.h>
+	<string.h>
+	"stack.h"
+
+1608538191 f:\mahe\ads\stacks and queues\stacksqueues\stack.h
+	<stdint.h>
+
+1608538200 source:f:\mahe\ads\stacks and queues\stacksqueues\stack.c
+	<stdint.h>
+	<assert.h>
+	"stack.h"
+	<string.h>
+	<ctype.h>
+
