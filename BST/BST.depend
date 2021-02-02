@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1612245503 source:c:\users\bhanuprakash\desktop\mahe files\ads\bst\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"bst.h"
+
+1612245566 c:\users\bhanuprakash\desktop\mahe files\ads\bst\bst\bst.h
+	<stdint.h>
+
